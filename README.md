@@ -1,4 +1,4 @@
-<<!-- Badged -->
+<!-- Badged -->
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/lucasliano/TC2">
-    <img src="Fotos/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Circuit Theory II Folder</h3>
