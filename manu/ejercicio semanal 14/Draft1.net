@@ -1,0 +1,15 @@
+* Z:\home\manuel\facu\4to\tc2\ejercicio semanal 14\Draft1.asc
+R1_div N001 Vs1 8k1
+R2_div Vs1 0 1k
+XU1 N002 Vs2 Vo opamp Aol=100K GBW=10Meg
+R1 N002 Vs1 600k
+R2 Vo N002 1Meg
+R3 Vs2 N003 1Meg
+V1 N001 0 -5
+R4 Vo 0 1Meg
+V2 N003 0 PULSE(-0.55 1.5 0 1 0 0 1m 20)
+R5 Vs2 0 1Meg
+.include opamp.sub
+.tran 1
+.backanno
+.end
